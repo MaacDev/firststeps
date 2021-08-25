@@ -10,3 +10,4 @@
 - Creado por Maac
 
 * Creado por el gran equipo de Mario 
+* Mucha información que revisar
